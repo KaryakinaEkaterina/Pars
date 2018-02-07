@@ -1,0 +1,9 @@
+C:\Users\Андрей\Documents\GitHub\MKB2.1\bin\Debug\MKB2.1.exe.config
+C:\Users\Андрей\Documents\GitHub\MKB2.1\bin\Debug\MKB2.1.exe
+C:\Users\Андрей\Documents\GitHub\MKB2.1\bin\Debug\MKB2.1.pdb
+C:\Users\Андрей\Documents\GitHub\MKB2.1\obj\Debug\MKB2.1.csprojResolveAssemblyReference.cache
+C:\Users\Андрей\Documents\GitHub\MKB2.1\obj\Debug\MKB2._1.MainForm.resources
+C:\Users\Андрей\Documents\GitHub\MKB2.1\obj\Debug\MKB2._1.Properties.Resources.resources
+C:\Users\Андрей\Documents\GitHub\MKB2.1\obj\Debug\MKB2.1.csproj.GenerateResource.Cache
+C:\Users\Андрей\Documents\GitHub\MKB2.1\obj\Debug\MKB2.1.exe
+C:\Users\Андрей\Documents\GitHub\MKB2.1\obj\Debug\MKB2.1.pdb
